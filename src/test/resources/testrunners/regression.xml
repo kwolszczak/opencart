@@ -9,7 +9,7 @@
         </classes>
     </test> <!-- Test -->
     <test name="Home Page Test firefox">
-        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="browser" value="chromium"></parameter>
         <classes>
             <class name="com.qa.opencart.pages.HomePageTest"/>
 
